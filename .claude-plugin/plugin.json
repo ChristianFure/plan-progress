@@ -1,0 +1,10 @@
+{
+  "name": "plan-progress",
+  "version": "0.1.0",
+  "description": "Keeps the session's current plan and its progress in a band right above the prompt",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "christianfure"
+  },
+  "repository": "https://github.com/christianfure/plan-progress"
+}

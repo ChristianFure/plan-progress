@@ -1,0 +1,13 @@
+{
+  "name": "plan-progress",
+  "owner": {
+    "name": "christianfure"
+  },
+  "plugins": [
+    {
+      "name": "plan-progress",
+      "source": "./",
+      "description": "Keeps the session's current plan and its progress in a band right above the prompt"
+    }
+  ]
+}
